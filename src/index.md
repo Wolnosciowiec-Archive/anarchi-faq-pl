@@ -1,4 +1,4 @@
-1. Czym jest anarchizm? 
+1. [Czym jest anarchizm?](1-15/1-czym-jest-anarchizm.md)
 2. Co znaczy słowo anarchia? 
 3. Co znaczy słowo anarchizm?
 
@@ -9,7 +9,7 @@
 7. Jaka jest istota anarchizmu?
 8. Jakie są rodzaje anarchizmu?
 9. Dlaczego anarchiści  kładą szczególny nacisk na wolność? 
-10.Dlaczego anarchiści opowiadają się przeciw państwu?
+10. Dlaczego anarchiści opowiadają się przeciw państwu?
 11. Czy anarchiści  popierają organizowanie się? 
 12. Dlaczego anarchiści  opowiadają się za równością? 
 13. Dlaczego solidarność jest tak ważna dla anarchistow? 
@@ -20,12 +20,12 @@
 
 17. Czy można być anarchista bez zwalczania hierarchii? 
 18. Jakiego rodzaju społeczeństwo jest pożądane przez anarchistów? 
-19.Jakie osiągnięcia przyniesie zniesienie hierarchii? Co będzie ono oznaczało? 
-20.Dlaczego większość anarchistów popiera demokracje bezpośrednią? 
-21.Czy konsensus jest alternatywą wobec demokracji bezpośredniej? 
-22.Czy anarchiści to indywidualiści? Czy też kolektywiści? 
-23.Dlaczego dobrowolność nie wystarcza? 
-24.A co z ludzką naturą?
+19. Jakie osiągnięcia przyniesie zniesienie hierarchii? Co będzie ono oznaczało? 
+20. Dlaczego większość anarchistów popiera demokracje bezpośrednią? 
+21. Czy konsensus jest alternatywą wobec demokracji bezpośredniej? 
+22. Czy anarchiści to indywidualiści? Czy też kolektywiści? 
+23. Dlaczego dobrowolność nie wystarcza? 
+24. A co z ludzką naturą?
 
 25. Czy anarchizm wymaga doskonałych ludzi do swego funkcjonowania? 
 26. Czy na to, aby wolne społeczeństwo mogło się sprawdzić, większość ludzi nie jest za głupia? 
