@@ -1,5 +1,5 @@
 1. [Czym jest anarchizm?](1-15/1-czym-jest-anarchizm.md)
-2. Co znaczy słowo anarchia? 
+2. [Co znaczy słowo anarchia?](1-15/2-co-znaczy-slowo-anarchia.md) 
 3. Co znaczy słowo anarchizm?
 
 4. Symbole anarchizmu
